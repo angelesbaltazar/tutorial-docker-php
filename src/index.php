@@ -1,4 +1,3 @@
 <?php
-    echo ("Nuestro primer ejemplo en PHP")
-    phpinfo();
+    echo ("Nuestro primer ejemplo en PHP") phpinfo();
 ?>
