@@ -1,4 +1,4 @@
 <?php
-    echo ("Nuestro primer ejemplo en PHP cambio por abc");
+    echo ("Nuestro ejemplo php en jenkins cambio por abc");
      phpinfo();
 ?>
